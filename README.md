@@ -1,2 +1,2 @@
 # my-leftwmtheme
-Leftwm Theme
+Edit of the Arise Leftwm Theme
